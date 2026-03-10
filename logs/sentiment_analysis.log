@@ -1,32 +1,6 @@
-2026-03-10 17:17:05.845 | INFO     | api:analyse_sentiment:17 - Received text: I'm so happy to do what i do for living everyday !!
-2026-03-10 17:17:05.845 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.6785}
-2026-03-10 17:17:12.894 | INFO     | api:analyse_sentiment:17 - Received text: I'm so happy to do what i do for living everyday !
-2026-03-10 17:17:12.894 | INFO     | api:analyse_sentiment:17 - Received text: I'm so happy to do what i do for living everyday !
-2026-03-10 17:17:12.894 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.6468}
-2026-03-10 17:17:12.894 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.6468}
-2026-03-10 17:20:07.673 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living every
-2026-03-10 17:20:07.673 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:23.129 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living everyyyy
-2026-03-10 17:20:23.129 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living everyyyy
-2026-03-10 17:20:23.130 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:23.130 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:30.189 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living everyy
-2026-03-10 17:20:30.189 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living everyy
-2026-03-10 17:20:30.189 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living everyy
-2026-03-10 17:20:30.190 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:30.190 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:30.190 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.6115}
-2026-03-10 17:20:37.907 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living
-2026-03-10 17:20:37.907 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living
-2026-03-10 17:20:37.907 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living
-2026-03-10 17:20:37.907 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living
-2026-03-10 17:20:37.908 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
-2026-03-10 17:20:37.908 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
-2026-03-10 17:20:37.908 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
-2026-03-10 17:20:37.908 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
-2026-03-10 17:23:57.131 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for livingggg
-2026-03-10 17:23:57.132 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
-2026-03-10 17:24:04.919 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for
-2026-03-10 17:24:04.919 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for
-2026-03-10 17:24:04.920 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.637, 'pos': 0.363, 'compound': 0.6115}
-2026-03-10 17:24:04.920 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.637, 'pos': 0.363, 'compound': 0.6115}
+2026-03-10 17:27:15.317 | INFO     | api:analyse_sentiment:16 - Received text: Hello Test log
+2026-03-10 17:27:15.318 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 17:27:29.153 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living
+2026-03-10 17:27:29.155 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}
+2026-03-10 17:27:36.620 | INFO     | api:analyse_sentiment:16 - Received text: I'm so happy to do what i do for living !!!
+2026-03-10 17:27:36.621 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.7067}

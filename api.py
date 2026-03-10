@@ -9,10 +9,10 @@ class Sentiment(BaseModel):
 
 app = FastAPI()
 sia = SentimentIntensityAnalyzer()
+logger.add("logs/sentiment_analysis.log", rotation="500 MB", level="INFO")
 
 @app.post('/analyse_sentiment/')
 def analyse_sentiment(sentiment: Sentiment):
-    logger.add("logs/sentiment_analysis.log", rotation="500 MB", level="INFO")
     logger.info(f"Received text: {sentiment.text}")
     
     try:        
