@@ -134,3 +134,5 @@
 2026-03-10 16:48:17.251 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 2026-03-10 16:48:17.251 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 2026-03-10 16:48:17.251 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 17:06:09.488 | INFO     | api:analyse_sentiment:17 - Received text: I love this product!
+2026-03-10 17:06:09.489 | INFO     | api:analyse_sentiment:21 - Results: {'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.6696}
