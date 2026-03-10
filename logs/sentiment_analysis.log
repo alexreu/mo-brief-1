@@ -1,0 +1,124 @@
+2026-03-10 15:35:00.647 | INFO     | api:analyse_sentiment:16 - Received text: World !!!
+2026-03-10 15:35:00.648 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:38:57.997 | INFO     | api:analyse_sentiment:16 - Received text: textr
+2026-03-10 15:38:57.998 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:01.641 | INFO     | api:analyse_sentiment:16 - Received text: textr
+2026-03-10 15:39:01.641 | INFO     | api:analyse_sentiment:16 - Received text: textr
+2026-03-10 15:39:01.642 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:01.642 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:05.611 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:06.993 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:06.993 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:06.993 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:06.993 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:06.994 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:06.994 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:06.994 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:06.994 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.125 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.125 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.125 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.125 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.125 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.126 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.126 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.126 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.126 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.126 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:09.850 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.023 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:10.024 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.220 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.221 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:11.660 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.185 | INFO     | api:analyse_sentiment:16 - Received text: Nooooo!
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:12.186 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:36.044 | INFO     | api:analyse_sentiment:16 - Received text: Noooooo !
+2026-03-10 15:39:36.044 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 15:39:44.085 | INFO     | api:analyse_sentiment:16 - Received text: I'm so sad today
+2026-03-10 15:39:44.085 | INFO     | api:analyse_sentiment:16 - Received text: I'm so sad today
+2026-03-10 15:39:44.086 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.531, 'neu': 0.469, 'pos': 0.0, 'compound': -0.5256}
+2026-03-10 15:39:44.086 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.531, 'neu': 0.469, 'pos': 0.0, 'compound': -0.5256}
+2026-03-10 15:39:52.512 | INFO     | api:analyse_sentiment:16 - Received text: I'm so so so happy today
+2026-03-10 15:39:52.512 | INFO     | api:analyse_sentiment:16 - Received text: I'm so so so happy today
+2026-03-10 15:39:52.512 | INFO     | api:analyse_sentiment:16 - Received text: I'm so so so happy today
+2026-03-10 15:39:52.513 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 0.48, 'pos': 0.52, 'compound': 0.752}
+2026-03-10 15:39:52.513 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 0.48, 'pos': 0.52, 'compound': 0.752}
+2026-03-10 15:39:52.513 | INFO     | api:analyse_sentiment:20 - Results: {'neg': 0.0, 'neu': 0.48, 'pos': 0.52, 'compound': 0.752}
