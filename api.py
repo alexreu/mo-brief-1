@@ -11,10 +11,11 @@ app = FastAPI()
 sia = SentimentIntensityAnalyzer()
 
 @app.post('/analyse_sentiment/')
-async def analyse_sentiment(sentiment: Sentiment):
+def analyse_sentiment(sentiment: Sentiment):
     logger.add("logs/sentiment_analysis.log", rotation="500 MB", level="INFO")
     logger.info(f"Received text: {sentiment.text}")
-    try:    
+    
+    try:        
         sentiment_scores = sia.polarity_scores(sentiment.text)
 
         logger.info(f"Results: {sentiment_scores}")
