@@ -8,6 +8,7 @@ A Python application to analyze the sentiment of a text (positive, negative, neu
 - UI: Streamlit
 - NLTK (`SentimentIntensityAnalyzer`)
 - Logging: Loguru
+- Tests: pytest
 
 ## Installation
 
@@ -60,6 +61,20 @@ Example response:
   "pos": 0.6,
   "compound": 0.82
 }
+```
+
+## Tests
+
+Install `pytest`:
+
+```bash
+pip install -U pytest
+```
+
+Run tests with `pytest`:
+
+```bash
+pytest
 ```
 
 ## Logs
