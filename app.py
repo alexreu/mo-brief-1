@@ -51,4 +51,4 @@ if text:
         st.error(f"An error occurred: {e}")
         logger.error(f"An error occurred: {e}")
 else:
-    st.write("Please enter some text to analyze its sentiment")
+    st.info("Aucune analyse de sentiment n'est disponible.")
